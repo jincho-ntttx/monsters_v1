@@ -35,7 +35,7 @@ This game consists of the following three programs.
 2. 敵の作成(ケンタウロス)(make centaur)
 3. ステージの作成(make stage)
 
-ここでは、書くプログラムの作り方を説明します。
+ここでは、各プログラムの作り方を説明します。
 
 以下表のプログラム名をクリックすると、プログラムの説明が表示されてます。
 
